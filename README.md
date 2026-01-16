@@ -1,11 +1,11 @@
-# 💰 Personal Finance AI Dashboard
+#  Personal Finance AI Dashboard
 
 **AI-powered personal finance prototype** that transforms raw spending data into **actionable insights**. 
 This project demonstrates how AI can be leveraged to improve financial awareness, guide decision-making, and prototype innovative solutions quickly.
 
 ---
 
-## 🔹 Key Features
+##  Key Features
 
 - **CSV Upload:** Easily import expense data from any source.  
 - **Spending Summary:** Quickly see total expenses and breakdown by category.  
@@ -16,7 +16,7 @@ This project demonstrates how AI can be leveraged to improve financial awareness
 
 ---
 
-## 📈 How It Works
+##  How It Works
 
 1. Upload a CSV with headers: `Date`, `Description`, `Category`, `Amount`.  
 2. The app displays:
@@ -27,7 +27,7 @@ This project demonstrates how AI can be leveraged to improve financial awareness
 4. Use the **chat box** to ask follow-up questions for actionable guidance.  
 
 ---
-## 📸 Demo Screenshots
+## Demo Screenshots
 
 **Dashboard Overview**  
 ![Top Metrics](screenshot_1.png)
@@ -48,7 +48,7 @@ This project demonstrates how AI can be leveraged to improve financial awareness
 
 ---
 
-## 💡 Why This Project Matters to Executives
+##  Why This Project Matters to Executives
 
 - Demonstrates how **AI can convert raw financial data into actionable insights**, supporting better business or personal decision-making.  
 - Shows the ability to **prototype solutions quickly** without full-scale production, reducing time and cost for testing concepts.  
@@ -57,7 +57,7 @@ This project demonstrates how AI can be leveraged to improve financial awareness
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ```bash
 # Clone the repo
