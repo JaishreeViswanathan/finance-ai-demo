@@ -27,6 +27,17 @@ This project demonstrates how AI can be leveraged to improve financial awareness
 4. Use the **chat box** to ask follow-up questions for actionable guidance.  
 
 ---
+## 📸 Demo Screenshots
+
+**Dashboard Overview**  
+![Top Metrics](screenshot_1.png)
+
+**Spending by Category & Subscriptions**  
+![Category & Subscriptions](screenshot_2.png)
+
+**AI Financial Insights & Chat**  
+![AI Insights](screenshot_3.png)
+
 
 ## ⚙️ Technology Overview
 
